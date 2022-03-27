@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: db69222b-1001-0fe7-6c8f-e350abc553c3
 resourcetype: Document
 title: MIT21W_031S17_UsingSourceMaterial
 uid: 93864c00-948f-7e3b-f2dc-924ce8615de4

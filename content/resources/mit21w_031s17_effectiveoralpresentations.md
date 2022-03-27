@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: db69222b-1001-0fe7-6c8f-e350abc553c3
 resourcetype: Document
 title: MIT21W_031S17_EffectiveOralPresentations
 uid: 2a31116b-fb3c-aeff-4c0a-e979e2ed1317
