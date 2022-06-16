@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: 'This section contains the course schedule along with assignment due
+  dates. '
 learning_resource_types: []
 ocw_type: CourseSection
 title: Calendar
@@ -48,7 +50,7 @@ Discuss article on science museum
 
 {{< tdclose >}}
 {{< tdopen >}}
-[Assignment #1: A Critical Review of a Science Museum Exhibit]({{< baseurl >}}/pages/assignments/assignment-1-a-critical-review) assigned
+{{% resource_link dc8c1124-d285-c419-8dee-62aa98c5c95a "Assignment #1: A Critical Review of a Science Museum Exhibit" %}} assigned
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -114,7 +116,7 @@ Assignment #1 due
 Background on Assignments #2 and #3
 {{< tdclose >}}
 {{< tdopen >}}
-[Assignment #2: A Prospectus for a Science Essay]({{< baseurl >}}/pages/assignments/assignment-2-a-prospectus-for-a-science-essay) & [Assignment #3: A Researched Science Essay for the General Public]({{< baseurl >}}/pages/assignments/assignment-3-a-researched-science-essay-for-the-general-public) assigned
+{{% resource_link 4c732434-8f86-03ed-1d58-7cc7fb370281 "Assignment #2: A Prospectus for a Science Essay" %}} & {{% resource_link e5eaad23-afa8-a30a-ef73-19e435db973d "Assignment #3: A Researched Science Essay for the General Public" %}} assigned
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -234,7 +236,7 @@ Writing workshop on science essays
 Background on Assignment #3
 {{< tdclose >}}
 {{< tdopen >}}
-[Assignment #4: A Proposal]({{< baseurl >}}/pages/assignments/assignment-4-a-proposal) assigned
+{{% resource_link 3599e30b-d419-a4b5-2e4a-dac634dc72ce "Assignment #4: A Proposal" %}} assigned
 {{< tdclose >}}
 
 {{< trclose >}}

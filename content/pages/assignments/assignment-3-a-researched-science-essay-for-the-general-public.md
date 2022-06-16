@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: 'This section contains details for Assignment 3: A Researched Science
+  Essay for the General Public'
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection

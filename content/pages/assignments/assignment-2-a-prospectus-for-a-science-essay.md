@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: 'This section contains a description for Assignment 2: A Prospectus for
+  a Science Essay.'
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
