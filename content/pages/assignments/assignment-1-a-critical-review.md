@@ -1,6 +1,5 @@
 ---
 content_type: page
-description: 'This section contains details for Assignment 1: A Critical Review.'
 draft: false
 learning_resource_types:
 - Assignments

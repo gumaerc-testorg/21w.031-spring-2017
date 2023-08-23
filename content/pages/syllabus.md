@@ -1,7 +1,5 @@
 ---
 content_type: page
-description: This section contains details about the course, course meeting times
-  and general course expectations.
 draft: false
 learning_resource_types: []
 ocw_type: CourseSection

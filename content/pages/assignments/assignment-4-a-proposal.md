@@ -1,7 +1,5 @@
 ---
 content_type: page
-description: 'This section contains details for Assignment 4: A proposal for a summer
-  short course at the Boston Museum of Science.'
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
