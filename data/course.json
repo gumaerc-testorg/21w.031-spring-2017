@@ -29,7 +29,9 @@
   },
   "course_title": "Science Writing and New Media: Explorations in Communicating about Science & Technology",
   "course_description": "Proficiency in communicating about science and technology comes from both knowledge and practice, and this course emphasizes both. Through a variety of reading and writing assignments, we will examine general principles of good writing, as well as principles associated specifically with scientific and technical writing. We will also explore the effects of new media as avenues for communicating about science.\n",
-  "department_numbers": [],
+  "department_numbers": [
+    "CMS-W"
+  ],
   "extra_course_numbers": "",
   "primary_course_number": "21W.031",
   "course_image_thumbnail": {
@@ -39,6 +41,7 @@
   "learning_resource_types": [
     "Written Assignments with Examples"
   ],
-  "site_uid": "048c0a73-c177-44b4-bb51-477b3d24f72c",
+  "site_uid": "a099bbd6-c091-427d-8ef2-c398b6566ed6",
+  "site_short_id": "21w.031-spring-2017",
   "title": "Course Metadata"
 }
