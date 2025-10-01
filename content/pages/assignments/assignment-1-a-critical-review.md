@@ -14,7 +14,7 @@ Due: Session 5
 
 Length: ~1250 words
 
-**For this assignment you will write a critical review of an exhibit at the Boston** [**Museum of Science**](https://www.mos.org/)**.**
+**For this assignment you will write a critical review of an exhibit at the Boston** {{% resource_link "dc3af8e0-1de0-4cb4-9f86-c5eedbd33a20" "**Museum of Science**" %}}**.**
 
 **The purpose and target audience of your review: Who are you writing for and why?**
 
@@ -43,7 +43,7 @@ You may use section headings to highlight key points. The paper should be either
 
 **Evaluating an Exhibit: What Should You Consider?**
 
-Consider the exhibit in light of the ideas discussed in the Semper article, "[Science Museums as Environments for Learning](http://physicstoday.scitation.org/doi/abs/10.1063/1.881216)," as well as your own ideas about science museums.
+Consider the exhibit in light of the ideas discussed in the Semper article, "{{% resource_link "55feec07-b755-4c8f-a29c-435c0d70833d" "Science Museums as Environments for Learning" %}}," as well as your own ideas about science museums.
 
 Here are some questions to consider:
 
