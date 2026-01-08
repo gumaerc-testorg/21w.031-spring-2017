@@ -23,7 +23,7 @@ For this assignment, you will write about some aspect of science, engineering, m
 
 **Picking a Topic**
 
-Your first task will be to find a topic that interests you, and that you think could be the basis for an intriguing and informative essay for people who have little or no previous acquaintance with this subject. If you are involved with an {{% resource_link "5c2647a3-57db-40f1-a76a-41a1b5eb8033" "Undergraduate Research Opportunities Group" %}} (UROP), you could write about something related to that. However, there are endless other possibilities. Another suggestion for finding a topic would be to browse the website of a department you’re interested in and check the links to research labs and groups in that department. Read about the research that’s going on in those labs and groups until you find something that especially interests you.
+Your first task will be to find a topic that interests you, and that you think could be the basis for an intriguing and informative essay for people who have little or no previous acquaintance with this subject. If you are involved with an [Undergraduate Research Opportunities Group](https://urop.mit.edu/) (UROP), you could write about something related to that. However, there are endless other possibilities. Another suggestion for finding a topic would be to browse the website of a department you’re interested in and check the links to research labs and groups in that department. Read about the research that’s going on in those labs and groups until you find something that especially interests you.
 
 **Shaping Your Topic: Defining Your Focus, Purpose, and Audience**
 
@@ -49,10 +49,10 @@ The essay must include a Bibliography of sources cited in the text. You can also
 
 *Example Science Essays*
 
-"{{% resource_link "a59ad437-6cb9-429e-b0cf-b008ca3abf4f" "Fukushima and the Bogey-man" %}}" - Rosie Sugrue
+"[Fukushima and the Bogey-man](https://mitangles.wordpress.com/sugrue/)" - Rosie Sugrue
 
-"{{% resource_link "48433183-d038-46cf-9538-eaaae5f5ef8e" "Who's Better and Who's the Best?" %}}" - Keren Gu
+"[Who's Better and Who's the Best?](https://mitangles.wordpress.com/gu/)" - Keren Gu
 
-"{{% resource_link "ee464279-39c7-4bd0-8e0a-fd1ad4bd79ee" "The Origin of Mass" %}}" - Sam Moore
+"[The Origin of Mass](http://cmsw.mit.edu/angles/2014/?page_id=798)" - Sam Moore
 
-"{{% resource_link "cd85a30e-a84f-431d-8f4f-509cf520d930" "Modular Self-Configurable Robots" %}}" - Vincent Kee
+"[Modular Self-Configurable Robots](http://cmsw.mit.edu/angles/2013/?page_id=451)" - Vincent Kee
